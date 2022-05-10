@@ -1,0 +1,2 @@
+Data downloaded from https://eogdata.mines.edu/products/dmsp/
+Name: F152007.v4b.global.stable_lights.avg_vis.tif
